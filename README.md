@@ -1,1 +1,2 @@
 # odin-to-do
+This a project assignment for The Odin Project where I'm tasked to create a to-do list with localStorage as its storage, allowing user to save what has been created. User can create projects and its tasks with all the due date and priority, this website allows users to have many options like deleting, editing, checking the task. The goal for this project was for me to practice with Webpack and organizing code with it. 
